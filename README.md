@@ -15,6 +15,8 @@ are or what they're called. ClimbNamer does: *Kemmelberg*, *Rodeberg*,
 Sister projects: [ClimbNamer for Hammerhead Dashboard](https://github.com/bertpinoy/ClimbNamer) ·
 [ClimbNamer for Garmin Connect](https://github.com/bertpinoy/ClimbNamer-Garmin).
 
+![ClimbNamer on a route on Strava](store/screenshots/1-route-climbs-chart.png)
+
 ## Features
 
 - **Climbs detected automatically** on every route you open on strava.com, with criteria

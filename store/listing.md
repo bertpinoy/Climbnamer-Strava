@@ -16,7 +16,7 @@ Texts to paste into the Chrome Web Store Developer Dashboard.
 | Icon | `extension/icons/icon-128.png` (from the zip) |
 | Small promo tile (440×280) | `store/promo-tile-440x280.png` |
 | Marquee promo tile (1400×560) | `store/marquee-1400x560.png` |
-| Screenshots | 1280×800 PNG/JPEG, 1–5 pieces. **To do**: see below |
+| Screenshots | `store/screenshots/*.png` (1280×800), see below |
 
 ## Short description (manifest, max 132 characters)
 
@@ -103,12 +103,15 @@ https://overpass-api.de/*, https://overpass.kumi.systems/* and https://nominatim
 **Data usage:** tick **Location** (climb coordinates are sent to OpenStreetMap services
 to look up names); leave the other categories unticked. Tick all three certifications.
 
-## Screenshots (to do)
+## Screenshots
 
-Make 1280×800 screenshots in a desktop browser window, for example:
+Upload in this order (1280×800 PNG):
 
-1. A route with the ClimbNamer panel and the orange climb bands on the elevation chart.
-2. A climb clicked in the panel: band picked out, Strava's marker on the climb's top.
-3. A long or hilly route with many climbs.
+1. `screenshots/1-route-climbs-chart.png`: a 24 km route with five climbs (Vidaigneberg,
+   Rodeberg, Monteberg, Kemmelberg and a road climb) as numbered bands on Strava's
+   elevation chart; climb 5 selected.
+2. `screenshots/2-route-many-climbs.png`: an 86 km route with seven climbs, named after
+   summits (Scherpenberg, Vidaigneberg, Baneberg, Monteberg, Kraaiberg) and roads.
 
-Tip: pick routes that don't start at your home address.
+Originals are scaled to fit 1280×800; thin dark bands fill the rest, so nothing is
+cropped.
