@@ -2,6 +2,13 @@
 
 # ClimbNamer — for Strava
 
+> **Install it as part of ClimbNamer for Garmin Connect and Strava.** The Chrome Web Store
+> currently allows only two extensions on this publisher account, so the Strava version
+> is published inside the Garmin Connect extension (since version 1.6.0):
+> **[➜ ClimbNamer for Garmin Connect and Strava on the Chrome Web Store](https://chromewebstore.google.com/detail/climbnamer-for-garmin-con/ejokejjhepoeeebomjahihncemjbmfda)**
+> · source: [ClimbNamer-Garmin](https://github.com/bertpinoy/ClimbNamer-Garmin).
+> This repository holds the stand-alone Strava version it was built from.
+
 [![License](https://img.shields.io/github/license/bertpinoy/Climbnamer-Strava)](https://github.com/bertpinoy/Climbnamer-Strava/blob/main/LICENSE)
 
 A Chrome / Edge extension that **finds the climbs on your Strava routes and gives them
@@ -94,7 +101,7 @@ See the [privacy policy](PRIVACY.md).
 
 ## Install
 
-**From the Chrome Web Store:** *coming soon*.
+**From the Chrome Web Store:** install [ClimbNamer for Garmin Connect and Strava](https://chromewebstore.google.com/detail/climbnamer-for-garmin-con/ejokejjhepoeeebomjahihncemjbmfda), which includes this Strava version.
 
 **From source** (for development):
 

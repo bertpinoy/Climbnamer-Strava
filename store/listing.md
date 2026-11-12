@@ -6,7 +6,7 @@ Texts to paste into the Chrome Web Store Developer Dashboard.
 
 | Field | Value |
 |---|---|
-| Chrome Web Store | Not submitted yet |
+| Chrome Web Store | Not published separately (publisher limit of 2 extensions): included in ClimbNamer for Garmin Connect and Strava 1.6.0, item `ejokejjhepoeeebomjahihncemjbmfda` |
 | Name | ClimbNamer - for Strava *(from the manifest)* |
 | Category | *Productivity* (or *Tools*) |
 | Language | English |
